@@ -8,8 +8,12 @@ Este projeto permite que os usuários insiram o nome de um país válido em um c
 
 O projeto utiliza a [Rest Country API](https://restcountries.com/) para buscar informações precisas e atualizadas sobre os países.
 
-## Tecnologias Utilizadas
+## Desenvolvido com: <br>
+ <div>
+     <img align='center' height='40' width='60' title='HTML5' alt='html5' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' />
+     <img align='center' height='40' width='60' title='CSS3' alt='css3' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' />
+     <img align='center' height='40' width='60' title='CSS3' alt='css3' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' />
 
-- JavaScript para interação dinâmica e busca de dados.
-- Fetch API para realizar solicitações à [Rest Country API](https://restcountries.com/).
+</div>
+
 
