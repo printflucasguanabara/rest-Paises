@@ -11,6 +11,10 @@ body{
     align-items: flex-start;
     min-height: 100vh;
     background: #37393a;
+    background-image: url(images/mapa-mundi.png);
+    background-repeat: no-repeat    ;
+    background-size: 100%;
+
 }
 
 .wrapper{
