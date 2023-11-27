@@ -1,10 +1,10 @@
-# Exibição de Informações sobre Países
+# Exibição de Informações sobre Países 🌍
 
-## Visão Geral
+## Visão Geral 
 
-Este projeto permite que os usuários insiram o nome de um país válido em um campo designado. Após inserir o nome do país e clicar no botão de **ENVIAR**, informações relevantes sobre o país especificado, incluindo sua bandeira, são exibidas. Os dados são obtidos da [Rest Country API](https://restcountries.com/)
+Este projeto permite que você obtenha informações detalhadas sobre qualquer país. Basta digitar o nome de um país válido no campo designado e clicar no botão **ENVIAR**. Você receberá informações relevantes sobre o país escolhido, incluindo a visualização de sua bandeira. Os dados são fornecidos pela **Rest Country API**.
 
-## Fonte de Dados
+## Fonte de Dados 
 
 O projeto utiliza a [Rest Country API](https://restcountries.com/) para buscar informações precisas e atualizadas sobre os países.
 
