@@ -2,7 +2,7 @@
 
 ## Visão Geral 
 
-Este projeto permite que você obtenha informações detalhadas sobre qualquer país. Basta digitar o nome de um país válido no campo designado e clicar no botão **ENVIAR**. Você receberá informações relevantes sobre o país escolhido, incluindo a visualização de sua bandeira. Os dados são fornecidos pela **Rest Country API**.
+Este projeto permite que você obtenha **informações detalhadas sobre qualquer país**. Basta digitar o nome de um país válido no campo designado e clicar no botão **ENVIAR**. Você receberá informações relevantes sobre o país escolhido, incluindo a **visualização de sua bandeira**. Os dados são fornecidos pela **Rest Country API**.
 
 ## Fonte de Dados 
 
